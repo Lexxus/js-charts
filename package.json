@@ -1,0 +1,15 @@
+{
+  "name": "js-charts",
+  "version": "1.0.0",
+  "description": "Telegram official coding competition",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --outFile index.js -m amd ./src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksii Teterin",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
